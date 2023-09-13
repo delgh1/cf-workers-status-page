@@ -75,5 +75,5 @@ monitors:
     url: 'https://lists.jing.rocks/mailman3/'
     method: GET
     expectStatus: 200
-    followRedirect: false
+    followRedirect: true
     linkable: false
